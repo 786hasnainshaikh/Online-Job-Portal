@@ -19,3 +19,6 @@
 ![admin2](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/76345a25-8a45-420d-b8e6-85b9e93e2929)
 
 ![admin3](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/5dfec2b6-20e8-46d5-b336-bf6fa9931e87)
+![admin4](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/8a1c1da3-a911-4cf6-94ed-cdeb423c6c1e)
+
+![admin5](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/d7f09d3f-f62c-46cc-a4ba-b267fdc5d815)
