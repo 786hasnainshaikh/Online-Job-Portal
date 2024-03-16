@@ -5,11 +5,12 @@
 <ul>
   <li>
      <p>Admin and Normal both.</p>
-    <p>Create, Update, View & Delete Jobs</p>
-    <p>Sign In and Sign Up</p>
-    <p>Secure</p>
-    
+  
   </li>
+
+  <li><p>Create, Update, View & Delete Jobs</p></li>
+  <li><p>Sign In and Sign Up</p></li>
+  <li> <p>Secure</p></li>
 </ul>
 
 <h2> Client Side </h2>
