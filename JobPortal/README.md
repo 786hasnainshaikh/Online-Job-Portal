@@ -14,5 +14,15 @@
 
 ![logoutscuuessfully](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/ae95bc65-9f68-4f15-b1e1-9e752805bf5d)
 
+![admin1](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/937cce74-2a76-4d5e-a596-6431826c5dc4)
+
+![admin2](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/76345a25-8a45-420d-b8e6-85b9e93e2929)
+
+![admin3](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/5dfec2b6-20e8-46d5-b336-bf6fa9931e87)
+
+![admin4](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/12be09cd-e74a-4884-bfe9-06346194e23d)
+
+![admin5](https://github.com/786hasnainshaikh/Online-Job-Portal/assets/123292169/0dd04ac1-0ed7-46d8-a165-f125009a5ca3)
+
 
 
